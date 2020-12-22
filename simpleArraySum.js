@@ -1,5 +1,6 @@
 https://www.hackerrank.com/challenges/simple-array-sum/problem
 
+
 'use strict';
 
 const fs = require('fs');
